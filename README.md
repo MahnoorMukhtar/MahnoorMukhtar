@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Mahnoor 👋
 
-<!--
-**MahnoorMukhtar/MahnoorMukhtar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MERN stack engineer with 2.5+ years of experience building dashboards and web platforms for IoT and scientific device systems. BS in Software Engineering from UET Taxila.
 
-Here are some ideas to get you started:
+## Tech stack
+**Frontend:** React · Next.js · TypeScript · JavaScript
+**Backend:** Node.js · Express · NestJS
+**Database:** MongoDB
+**Other:** JWT auth · Stripe · REST APIs · LLM APIs (Groq)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured projects
+- **[mern-ai-support-chat](https://github.com/MahnoorMukhtar/mern-ai-support-chat)**: customer support chatbot using the Groq LLM API, RAG pattern, and streaming responses
+- **[BlogManagementApp](https://github.com/MahnoorMukhtar/BlogManagementApp)**: full-stack MERN blog platform with JWT auth and rich-text editing
+- **[next-nest-stripeIntegration](https://github.com/MahnoorMukhtar/next-nest-stripeIntegration)**: Next.js + NestJS app with Stripe payments
+- **[inventorySystem-Nextjs](https://github.com/MahnoorMukhtar/inventorySystem-Nextjs)**: inventory management system built with Next.js
+
+## Find me
+[Portfolio](https://mahnoorportfoliowebsite.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/mahnoor-mukhtar-9606b7244/)
